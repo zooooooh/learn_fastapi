@@ -10,5 +10,5 @@ __all__ = (
 from .base import Base
 from .db_helper import db_helper, DatabaseHelper
 from .product import Product
-from .users import User
+from .user import User
 from .post import Post
